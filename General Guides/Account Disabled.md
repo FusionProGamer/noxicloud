@@ -20,7 +20,3 @@
 4. Navigate to the Actions Table.
 5. Delete (drop) any actions with ID of 6 associated with the disabled account.
 6. This action will remove the excessive login attempts and potentially re-enable the account.
-
-### **Improvement:**
-To enhance security and prevent future account disablements due to excessive login attempts, consider implementing rate limiting mechanisms or CAPTCHA challenges for repeated failed login attempts.
-
